@@ -40,7 +40,10 @@ a.navbar-brand{
   #offcanvasNavbarLabel2{
     text-align: center !important;
     color: #173cde;
-    font-weight: 700;
+    font-size: 30px;
+    font-weight: 900 !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   .offcanvas-header{
     display: block !important;
@@ -62,7 +65,7 @@ a.navbar-brand{
   a.navlink:hover{
     color: #4a6afa !important;
     text-decoration: none;
-    font-weight: 600 !important;
+    font-weight: 800 !important;
   }  
   p.par{
     padding-top:4px ;
@@ -70,5 +73,5 @@ a.navbar-brand{
   }
   .rowww{
     padding-top:15px !important;
-
   }
+  
